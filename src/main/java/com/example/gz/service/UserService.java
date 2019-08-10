@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 /**
  * @author wangjunfeng
  * @version 1.0
- * @desc The type Sale menu service.
+ * @desc user service.
  * @since 2019/8/10
  */
 @Service

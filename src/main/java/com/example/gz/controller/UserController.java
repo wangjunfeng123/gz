@@ -10,7 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @author wangjunfeng
  * @version 1.0
- * @desc The type Sale menu service.
+ * @desc user controller.
  * @since 2019/8/10
  */
 @RestController

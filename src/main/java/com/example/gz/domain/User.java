@@ -3,7 +3,7 @@ package com.example.gz.domain;
 /**
  * @author wangjunfeng
  * @version 1.0
- * @desc The type Sale menu service.
+ * @desc user model.
  * @since 2019/8/10
  */
 public class User {
