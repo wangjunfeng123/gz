@@ -8,11 +8,17 @@
 		<version>2.2.0.M5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
+
+	<modules>
+		<module>web</module>
+	</modules>
+
 	<groupId>com.example</groupId>
 	<artifactId>gz</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>gz</name>
 	<description>Demo project for Spring Boot</description>
+	<packaging>pom</packaging>
 
 	<properties>
 		<java.version>1.8</java.version>
