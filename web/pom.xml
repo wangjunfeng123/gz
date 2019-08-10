@@ -6,11 +6,11 @@
 		<groupId>com.example</groupId>
 		<artifactId>gz</artifactId>
 		<version>0.0.1-SNAPSHOT</version>
-		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>web</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>web</name>
 	<description>Demo project for Spring Boot</description>
 
@@ -46,6 +46,9 @@
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
+				<configuration>
+					<mainClass>com.example.gz.WebApplication</mainClass>
+				</configuration>
 			</plugin>
 		</plugins>
 	</build>
