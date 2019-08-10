@@ -12,6 +12,7 @@
 	<modules>
 		<module>web</module>
 		<module>model</module>
+		<module>commonservice</module>
 	</modules>
 
 	<groupId>com.example</groupId>
