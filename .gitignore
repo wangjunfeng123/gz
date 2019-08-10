@@ -29,3 +29,11 @@ build/
 
 ### VS Code ###
 .vscode/
+.gitignore
+.mvn/
+mvnw
+mvnw.cmd
+pom.xml
+src/main/java/com/example/gz/WebApplication.java
+src/main/resources/
+src/test/
